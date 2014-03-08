@@ -15,11 +15,11 @@ h1 {
 	margin: 30px auto;
 	padding: 30px;
 	background-color: black;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	border-radius: 5px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
 
-	-webkit-box-shadow: 3px 3px 10px rgba(#ffff);
-	-moz-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
-	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 1px 1px 5px rgba(#ffff);
+	-moz-box-shadow: 1px 1px 5px rgba(#ffff);
+	box-shadow: 1px 1px 5px rgba(#ffff)
 }
